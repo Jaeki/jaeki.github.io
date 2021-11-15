@@ -5,9 +5,9 @@ title: David Whipp's CV
 # Jaeki Hong
 Developer/Researcher, Samsung Advanced Institue of Technology
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Computing Platform Lab, AI&SW Center<br/>
+Samsung-ro 130<br/>
+Suwon<br/>
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
 
@@ -22,11 +22,11 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2020-2023`
+**M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.
 
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+`2000-2007`
+**B.S., Mathematics, Physics**, *Chung-Ang University*, Seoul, South Korea.
 
 ## Experience
 
