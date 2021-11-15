@@ -2,8 +2,8 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Jaeki Hong
+Developer/Researcher, Samsung Advanced Institue of Technology
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
