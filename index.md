@@ -9,9 +9,9 @@ Computing Platform Lab, AI&SW Center<br/>
 Samsung-ro 130<br/>
 Suwon<br/>
 
-<a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a></br>
-<a href="jaeki.hong@samsung.com">jaeki.hong@samsung.com</a></br>
-<a href="jaeki.hong@aces.snu.ac.kr">jaeki.hong@aces.snu.ac.kr</a></br>
+<a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a><br/>
+<a href="jaeki.hong@samsung.com">jaeki.hong@samsung.com</a><br/>
+<a href="jaeki.hong@aces.snu.ac.kr">jaeki.hong@aces.snu.ac.kr</a><br/>
 Mobile: +82 (10) 8951 8158
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
