@@ -98,5 +98,5 @@ Method and apparatus for optimizing model and accelerator system including appar
 ## Personal
 
 Family: Married, two children<br/>
-![Children](https://github.com/Jaeki/jaeki.github.io/blob/main/children.png)
+<img src="https://github.com/Jaeki/jaeki.github.io/blob/main/children.png" alt="Children"><br/>
 <br/>Last updated: November 2021<br/><br/>
