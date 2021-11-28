@@ -10,7 +10,6 @@ Samsung-ro 130<br/>
 Suwon<br/>
 
 <a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a> - +82 (10) 8951 8158
-
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
   <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-twitter"></i> LinkedIn</a>
@@ -80,8 +79,7 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 `2018`
 
-**Samsung&SNU DS^2**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
-Five credit introductory course for university pedagogy.
+**DS^2^**, *Seoul National University*, Seoul, South Korea.<br/>
 
 `2015`
 
@@ -91,5 +89,4 @@ Leadership program organized by the Faculty of Science for the University of Hel
 ## Personal
 
 Family: Married, two children
-
 <br/>Last updated: November 2021<br/><br/>
