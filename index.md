@@ -12,15 +12,16 @@ Suwon<br/>
 <a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a> - +82 (10) 8951 8158
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
-  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i>Jaeki Hong</a>
 </div>
 
 ## Education
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a><br/>
-Thunder Research Group
+- Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a><br/>
+- <a href="http://aces.snu.ac.kr">Thunder Research Group</a>
+
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
