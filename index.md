@@ -3,7 +3,7 @@ layout: cv
 title: Jaeki Hong's CV
 ---
 # Jaeki Hong
-Engineer/Researcher, Samsung Advanced Institue of Technology
+Engineer/Researcher, Samsung Electronics
 
 Computing Platform Lab, AI&SW Center<br/>
 Samsung-ro 130<br/>
@@ -31,7 +31,7 @@ Mobile: +82 (10) 8951 8158
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
 
 `2000-2007`
-**B.S., Mathematics, Physics**, *Chung-Ang University*, Seoul, South Korea.
+**B.S., Mathematics & Physics, (double major)**, *Chung-Ang University*, Seoul, South Korea.
 
 ### Certificates
 
@@ -39,9 +39,10 @@ Mobile: +82 (10) 8951 8158
 
 **DS<sup>2</sup> - DS Data Scientist Course**, *Seoul National University*, Seoul, South Korea.<br/>
 
-`2013`
+`2014`
 
 **CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
+
 **CCDH**, *Cloudera Certified Developer for Apache Hadoop*, United States.<br/>
 
 
@@ -50,14 +51,17 @@ Mobile: +82 (10) 8951 8158
 `2018-present`
 
 **Staff Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
+- HPC Storage System
 
 `2012-2018`
 
 **Staff Engineer**, *Software Research Center, Samsung Semiconductor*, South Korea.
+- Hadoop, Personal Health Care, Private Cloud
 
 `2007-2012`
 
 **Engineer**, *Storage Division, Samsung Semiconductor*, South Korea.
+- 2.5" HDD Firmware
 
 ## Publications
 
