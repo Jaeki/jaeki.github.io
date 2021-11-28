@@ -22,7 +22,7 @@ Mobile: +82 (10) 8951 8158
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- <a href="http://aces.snu.ac.kr">Thunder Research Group</a>
+- <a href="http://aces.snu.ac.kr">Thunder Research Group</a><img src = "./thunder.png" width = "15" height = "15">
 - Advisor: <a href="https://sites.google.com/view/jaejinlee">Professor Jaejin Lee</a>
 
 `2005-2006`
