@@ -21,8 +21,8 @@ Mobile: +82-10-8951-8158
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- Thunder Research Group:<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Advisor: Professor Jaejin Lee<a href="https://sites.google.com/view/jaejinlee"><i class="fas fa-home"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- Thunder Research Group:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a>
+- Advisor: Professor Jaejin Lee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fas fa-home"></i></a>
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
