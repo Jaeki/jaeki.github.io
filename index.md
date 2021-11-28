@@ -17,9 +17,12 @@ Suwon<br/>
 
 ## Education
 
+### Formal Training
+
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- Advisor: Professor <a href="https://sites.google.com/view/jaejinlee">Jaejin Lee</a> @ <a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i>Thunder Research Group</a>
+- <a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i>Thunder Research Group</a>
+- Advisor: Professor <a href="https://sites.google.com/view/jaejinlee">Jaejin Lee</a> @
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
@@ -27,12 +30,13 @@ Suwon<br/>
 `2000-2007`
 **B.S., Mathematics, Physics**, *Chung-Ang University*, Seoul, South Korea.
 
-### Training & Certificates
+### Certificates
 
 `2018`
-**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
 
+**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
 `2013`
+
 **CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
 **CCDH**, *Cloudera Certified Developer for Apache Hadoop*, United States.<br/>
 
@@ -41,10 +45,8 @@ Suwon<br/>
 
 `2018-present`
 **Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
-
 `2012-2018`
 **Developer**, *Software Research Center, Samsung Semiconductor*, South Korea.
-
 `2007-2012`
 **Developer**, *Storage Division, Samsung Semiconductor*, South Korea.
 
