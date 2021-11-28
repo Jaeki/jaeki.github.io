@@ -75,13 +75,15 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ### Patents
 
+`2011`
+Hard disk drive, method for operating the same, and computer system having the same, US8804256B2
+
+`2013`
+Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, US20150120793A1
 Distributed processing method, master server and distributed cluster, KR20150030036A
 
-Hard disk drive, method for operating the same, and computer system having the same, KR20130007298A
-
-Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, KR20150047396A
-
-Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, KR20210073242A
+`2019`
+Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, US20210174202A1
 
 
 ## Personal
