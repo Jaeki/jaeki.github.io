@@ -5,9 +5,9 @@ title: Jaeki Hong's CV
 # Jaeki Hong
 Engineer/Researcher, Samsung Electronics
 
-Computing Platform Lab, AI&SW Center<br/>
-Samsung-ro 130<br/>
-Suwon<br/>
+AI&SW Center, Samsung Advanced Institute of Technology<br/>
+Samsung-ro 130, Suwon city<br/>
+South Korea<br/>
 
 E-mail: jaeki.hong@{<a href="jaeki.hong@samsung.com">samsung.com</a> | 
 <a href="jaeki.hong@gmail.com">gmail.com</a> | 
