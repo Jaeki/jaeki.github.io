@@ -46,7 +46,7 @@ Mobile: +82 (10) 8951 8158
 
 ## Work Experience
 
-`2018-present`
+`2018-NOW`
 
 **Staff Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
 - HPC Storage System
