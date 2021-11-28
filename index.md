@@ -79,7 +79,7 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 `2018`
 
-**DS^2^**, *Seoul National University*, Seoul, South Korea.<br/>
+**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
 
 `2015`
 
