@@ -75,13 +75,13 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ### Patents
 
-* Distributed processing method, master server and distributed cluster, KR20150030036A
+Distributed processing method, master server and distributed cluster, KR20150030036A
 
-* Hard disk drive, method for operating the same, and computer system having the same, KR20130007298A
+Hard disk drive, method for operating the same, and computer system having the same, KR20130007298A
 
-* Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, KR20150047396A
+Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, KR20150047396A
 
-* Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, KR20210073242A
+Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, KR20210073242A
 
 
 ## Personal
