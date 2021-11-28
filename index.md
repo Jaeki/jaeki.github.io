@@ -21,23 +21,21 @@ Suwon<br/>
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
 - Advisor: Professor <a href="https://sites.google.com/view/jaejinlee">Jaejin Lee</a> @ <a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i>Thunder Research Group</a>
 
-### Training & Certificates
-
-`2018`
-
-**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
-
-`2013`
-
-**CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
-
-**CCDH**, *Cloudera Certified Developer for Apache Hadoop*, United States.<br/>
-
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
 
 `2000-2007`
 **B.S., Mathematics, Physics**, *Chung-Ang University*, Seoul, South Korea.
+
+### Training & Certificates
+
+`2018`
+**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
+
+`2013`
+**CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
+**CCDH**, *Cloudera Certified Developer for Apache Hadoop*, United States.<br/>
+
 
 ## Experience
 
