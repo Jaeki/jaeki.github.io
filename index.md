@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Jaeki Hong's CV
 ---
 # Jaeki Hong
 Developer/Researcher, Samsung Advanced Institue of Technology
@@ -9,21 +9,18 @@ Computing Platform Lab, AI&SW Center<br/>
 Samsung-ro 130<br/>
 Suwon<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a> - +82 (10) 8951 8158
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://jaeki.github.io"><i class="fas fa-home"></i> jaeki.github.io</a> - 
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-twitter"></i> LinkedIn</a>
 </div>
 
 ## Education
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.
+**Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a>
 
 `2000-2007`
 **B.S., Mathematics, Physics**, *Chung-Ang University*, Seoul, South Korea.
