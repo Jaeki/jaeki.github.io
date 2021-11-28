@@ -12,14 +12,15 @@ Suwon<br/>
 <a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a> - +82 (10) 8951 8158
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
-  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-twitter"></i> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
 ## Education
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-**Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a>
+Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a><br/>
+Thunder Research Group
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
@@ -68,17 +69,17 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ## Patents
 
-- Distributed processing method, master server and distributed cluster
-특허 발행기관·번호KR20150030036A
+Distributed processing method, master server and distributed cluster
+KR20150030036A
 
-- Hard disk drive, method for operating the same, and computer system having the same
-특허 발행기관·번호KR20130007298A
+Hard disk drive, method for operating the same, and computer system having the same
+KR20130007298A
 
-- Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
-특허 발행기관·번호KR20150047396A
+Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
+KR20150047396A
 
-- Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
-특허 발행기관·번호KR20210073242A
+Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
+KR20210073242A
 
 
 ## Professional training
