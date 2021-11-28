@@ -3,7 +3,7 @@ layout: cv
 title: Jaeki Hong's CV
 ---
 # Jaeki Hong
-Developer/Researcher, Samsung Advanced Institue of Technology
+Engineer/Researcher, Samsung Advanced Institue of Technology
 
 Computing Platform Lab, AI&SW Center<br/>
 Samsung-ro 130<br/>
@@ -19,8 +19,7 @@ Suwon<br/>
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a><br/>
-- <a href="http://aces.snu.ac.kr">Thunder Research Group</a>
+- Advisor: <a href="https://sites.google.com/view/jaejinlee">Prof. Jaejin Lee</a> @ <a href="http://aces.snu.ac.kr">Thunder Research Group</a>
 
 
 `2005-2006`
@@ -70,17 +69,13 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ## Patents
 
-Distributed processing method, master server and distributed cluster
-KR20150030036A
+Distributed processing method, master server and distributed cluster, KR20150030036A
 
-Hard disk drive, method for operating the same, and computer system having the same
-KR20130007298A
+Hard disk drive, method for operating the same, and computer system having the same, KR20130007298A
 
-Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
-KR20150047396A
+Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, KR20150047396A
 
-Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
-KR20210073242A
+Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, KR20210073242A
 
 
 ## Professional training
