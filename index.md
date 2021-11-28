@@ -48,10 +48,15 @@ Mobile: +82 (10) 8951 8158
 ## Experience
 
 `2018-present`
+
 **Staff Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
+
 `2012-2018`
+
 **Staff Engineer**, *Software Research Center, Samsung Semiconductor*, South Korea.
+
 `2007-2012`
+
 **Engineer**, *Storage Division, Samsung Semiconductor*, South Korea.
 
 ## Publications
