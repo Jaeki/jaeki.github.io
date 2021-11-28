@@ -68,16 +68,16 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ## Patents
 
-### Distributed processing method, master server and distributed cluster
+- Distributed processing method, master server and distributed cluster
 특허 발행기관·번호KR20150030036A
 
-### Hard disk drive, method for operating the same, and computer system having the same
+- Hard disk drive, method for operating the same, and computer system having the same
 특허 발행기관·번호KR20130007298A
 
-### Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
+- Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
 특허 발행기관·번호KR20150047396A
 
-### Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
+- Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
 특허 발행기관·번호KR20210073242A
 
 
