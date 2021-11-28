@@ -20,7 +20,7 @@ Mobile: +82 (10) 8951 8158
 
 ## Education
 
-### Formal Training
+### Formal Course
 
 `2020-2023`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
@@ -37,7 +37,8 @@ Mobile: +82 (10) 8951 8158
 
 `2018`
 
-**DS<sup>2</sup>**, *Seoul National University*, Seoul, South Korea.<br/>
+**DS<sup>2</sup> - DS Data Scientist Course**, *Seoul National University*, Seoul, South Korea.<br/>
+
 `2013`
 
 **CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
@@ -47,11 +48,11 @@ Mobile: +82 (10) 8951 8158
 ## Experience
 
 `2018-present`
-**Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
+**Staff Researcher**, *Samsung Advanced Institute of Technology*, South Korea.
 `2012-2018`
-**Developer**, *Software Research Center, Samsung Semiconductor*, South Korea.
+**Staff Engineer**, *Software Research Center, Samsung Semiconductor*, South Korea.
 `2007-2012`
-**Developer**, *Storage Division, Samsung Semiconductor*, South Korea.
+**Engineer**, *Storage Division, Samsung Semiconductor*, South Korea.
 
 ## Publications
 
@@ -76,12 +77,7 @@ A. K. Das, S. Park, **J. Hong** and W. Chang, *Evaluating different distributed-
 S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in Virtualized Hadoop Clusters* 2014 IEEE International Congress on Big Data, 2014, pp. 586-593, doi: 10.1109/BigData.Congress.2014.90.
 
 
-## Awards and honors
-
-`2016`
-
-
-## Patents
+### Patents
 
 Distributed processing method, master server and distributed cluster, KR20150030036A
 
