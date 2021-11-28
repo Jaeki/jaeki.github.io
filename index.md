@@ -12,7 +12,7 @@ Suwon<br/>
 <a href="jaeki.hong@gmail.com">jaeki.hong@gmail.com</a> - +82 (10) 8951 8158
 
 <div id="webaddress">
-  <a href="https://jaeki.github.io"><i class="fas fa-home"></i> jaeki.github.io</a> - 
+  <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a>
   <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-twitter"></i> LinkedIn</a>
 </div>
 
@@ -43,25 +43,25 @@ Suwon<br/>
 
 ### Conference Papers
 
-'2017'
+`2017`
 
 **J. Hong**, P. Morris and J. Seo, *Interconnected Personal Health Record Ecosystem Using IoT Cloud Platform and HL7 FHIR* 2017 IEEE International Conference on Healthcare Informatics (ICHI), 2017, pp. 362-367, doi: 10.1109/ICHI.2017.82.
 
 Das, A. K., **Hong, J.**, Goswami, S., Platania, R., Lee, K., Chang, W., ... & Liu, L. (2017, June). *Augmenting amdahl's second law: A theoretical model to build cost-effective balanced hpc infrastructure for data-driven science*. In 2017 IEEE 10th International Conference on Cloud Computing (CLOUD) (pp. 147-154). IEEE.
 
-'2016'
+`2016`
 **J. Hong**, L. Li, C. Han, B. Jin, Q. Yang and Z. Yang, *Optimizing Hadoop Framework for Solid State Drives* 2016 IEEE International Congress on Big Data (BigData Congress), 2016, pp. 9-17, doi: 10.1109/BigDataCongress.2016.11.**Best Paper Awards**
 
-'2015'
+`2015`
 A. K. Das, S. Park, **J. Hong** and W. Chang, *Evaluating different distributed-cyber-infrastructure for data and compute intensive scientific application* 2015 IEEE International Conference on Big Data (Big Data), 2015, pp. 134-143, doi: 10.1109/BigData.2015.7363750.
 
-'2014'
+`2014`
 S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in Virtualized Hadoop Clusters* 2014 IEEE International Congress on Big Data, 2014, pp. 586-593, doi: 10.1109/BigData.Congress.2014.90.
 
 
 ## Awards and honors
 
-'2016'
+`2016`
 
 
 ## Patents
