@@ -54,7 +54,7 @@ Mobile: +82 (10) 8951 8158
 `2012-2018`
 
 **Staff Engineer**, *Software Research Center, Samsung Semiconductor*, South Korea.
-- Hadoop, Personal Health Care, Private Cloud
+- Big Data, Personal Health Care, Private Cloud
 
 `2007-2012`
 
