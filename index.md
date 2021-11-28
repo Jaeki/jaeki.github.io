@@ -9,7 +9,7 @@ AI&SW Center, Samsung Advanced Institute of Technology<br/>
 Samsung-ro 130, Suwon City<br/>
 South Korea<br/>
 
-E-mail: jaeki.hong@{samsung.com | gmail.com | aces.snu.ac.kr} <br/>
+E-mail: jaeki.hong@{samsung.com|gmail.com|snu.ac.kr} <br/>
 Mobile: +82 (10) 8951 8158
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
@@ -21,14 +21,17 @@ Mobile: +82 (10) 8951 8158
 ### Formal Course
 
 `2020-2023`
+
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
 - <a href="http://aces.snu.ac.kr">Thunder Research Group</a><img src = "./thunder.png" width = "15" height = "15">
 - Advisor: <a href="https://sites.google.com/view/jaejinlee">Professor Jaejin Lee</a>
 
 `2005-2006`
+
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
 
 `2000-2007`
+
 **B.S., Mathematics & Physics, (double major)**, *Chung-Ang University*, Seoul, South Korea.
 
 ### Certificates
