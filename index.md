@@ -80,6 +80,7 @@ Hard disk drive, method for operating the same, and computer system having the s
 
 `2013`
 Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system, US20150120793A1
+
 Distributed processing method, master server and distributed cluster, KR20150030036A
 
 `2019`
