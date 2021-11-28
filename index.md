@@ -68,11 +68,17 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 ## Patents
 
-`2021`
+### Distributed processing method, master server and distributed cluster
+특허 발행기관·번호KR20150030036A
 
-`2020`
+### Hard disk drive, method for operating the same, and computer system having the same
+특허 발행기관·번호KR20130007298A
 
-`2019`
+### Managing device of distributed file system, distributed computing system therewith, and operating method of distributed file system
+특허 발행기관·번호KR20150047396A
+
+### Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model
+특허 발행기관·번호KR20210073242A
 
 
 ## Professional training
@@ -83,8 +89,9 @@ S. Ahn, S. Park, **J. Hong** and W. Chang, *Performance Implications of SSDs in 
 
 `2015`
 
-**CCAH CCDH**, *Faculty of Science, University of Helsinki*, Helsinki, Finland.<br/>
-Leadership program organized by the Faculty of Science for the University of Helsinki supervisors to support them in their managerial duties and develop their leadership skills.
+**CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
+
+**CCDH**, *Cloudera Certified Developer for Apache Hadoop*, United States.<br/>
 
 ## Personal
 
