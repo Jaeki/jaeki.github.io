@@ -33,7 +33,7 @@ Samsung-ro 130, Suwon, South Korea.<br/>
 ### Certificates
 
 `2018`
-**DS<sup>2</sup> - DS Data Scientist Course**, *Seoul National University*, Seoul, South Korea.<br/>
+**Samsung-SNU Data Scientist Course(DS2)**, *Seoul National University*, Seoul, South Korea.<br/>
 
 `2014`
 **CCAH**, *Cloudera Certified Administrator for Apache Hadoop*, United States.<br/>
