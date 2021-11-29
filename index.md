@@ -19,7 +19,7 @@ Mobile: +82-10-8951-8158
 
 ### Formal Courses
 
-`2020-2023`
+`2020-2022`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
 - Thunder Research Group:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a>
 - Advisor: Professor Jaejin Lee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fas fa-home"></i></a>
