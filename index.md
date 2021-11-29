@@ -12,7 +12,7 @@ Samsung-ro 130, Suwon, South Korea.<br/>
 <i class="fas fa-phone"> Mobile: +82-10-8951-8158
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i> Jaeki Hong</a> <br/>
-  <a href="https://www.instagram.com/jaeki.hong/"><i class="fa fa-instagram" aria-hidden="true"></i> jaeki.hong</a>
+  <a href="https://www.instagram.com/jaeki.hong/"><i class="fab fa-instagram"></i> jaeki.hong</a>
 </div>
 
 ## Education
