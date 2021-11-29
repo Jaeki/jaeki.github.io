@@ -8,8 +8,8 @@ Engineer/Researcher, Samsung Electronics
 AI&SW Center, Samsung Advanced Institute of Technology<br/>
 Samsung-ro 130, Suwon, South Korea.<br/>
 
-<i class="fas fa-home"> E-mail: jaeki.hong@{ samsung.com | snu.ac.kr | gmail.com }</i> <br/>
-Mobile: +82-10-8951-8158
+<i class="fas fa-envelope"> E-mail: jaeki.hong@{ samsung.com | snu.ac.kr | gmail.com }</i> <br/>
+<i class="fas fa-mobile"> Mobile: +82-10-8951-8158
 <div id="webaddress">
   <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
   <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i>Jaeki Hong</a>
