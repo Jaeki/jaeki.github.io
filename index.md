@@ -86,6 +86,8 @@ Distributed processing method, master server and distributed cluster, KR20150030
 `2019`
 Method and apparatus for optimizing model and accelerator system including apparatus for optimizing model, US20210174202A1
 
+`2020-2021`
+To be updated...
 
 ## Personal
 
