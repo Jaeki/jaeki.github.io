@@ -48,7 +48,7 @@ Samsung-ro 130, Suwon, South Korea.<br/>
 
 `2012-2018`
 **Staff Engineer**, *Software Research Center, Samsung Semiconductor*, South Korea.
-- Big Data, Personal Health Care, Private Cloud
+- Big Data, Virtualization, SSD, PHR system, IoT, Private Cloud
 
 `2007-2012`
 **Engineer**, *Storage Division, Samsung Semiconductor*, South Korea.
