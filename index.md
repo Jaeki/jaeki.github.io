@@ -5,7 +5,7 @@ title: Jaeki Hong's CV
 # Jaeki Hong
 Engineer/Researcher, Samsung Electronics
 
-AI&SW Center, Samsung Advanced Institute of Technology<br/>
+AI&SW Center, Samsung Advanced Institute of Technology &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sait.samsung.co.kr/"><i class="fas fa-home"></i></a> <br/>
 Samsung-ro 130, Suwon, South Korea.<br/>
 
 <i class="fas fa-envelope"> E-mail: jaeki.hong@{ samsung.com | snu.ac.kr | gmail.com }</i> <br/>
@@ -21,8 +21,8 @@ Samsung-ro 130, Suwon, South Korea.<br/>
 
 `2020-2022`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- Thunder Research Group:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a>
-- Advisor: Professor *Jaejin Lee*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fas fa-home"></i></a>
+- *Thunder Research Group* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a>
+- Advisor: Professor **Jaejin Lee**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fas fa-home"></i></a>
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
