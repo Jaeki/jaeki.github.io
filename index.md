@@ -5,14 +5,14 @@ title: Jaeki Hong's CV
 # Jaeki Hong
 Engineer/Researcher, Samsung Electronics
 
-AI&SW Center, Samsung Advanced Institute of Technology &nbsp;<a href="https://www.sait.samsung.co.kr/"><i class="fas fa-home"></i></a> <br/>
+AI&SW Center, Samsung Advanced Institute of Technology <a href="https://www.sait.samsung.co.kr/"><i class="fas fa-home"></i></a> <br/>
 Samsung-ro 130, Suwon, South Korea.<br/>
 
 <i class="fas fa-envelope"> E-mail: jaeki.hong@{ samsung.com | snu.ac.kr | gmail.com }</i> <br/>
 <i class="fas fa-phone"> Mobile: +82-10-8951-8158
 <div id="webaddress">
-  <a href="https://jaeki.github.io"><i class="fas fa-home"></i>jaeki.github.io</a><br/>
-  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i>Jaeki Hong</a>
+  <a href="https://www.linkedin.com/in/jaeki-hong-39393165/"><i class="fab fa-linkedin"></i> Jaeki Hong</a> <br/>
+  <a href="https://www.instagram.com/jaeki.hong/"><i class="fas fa-instagram"></i> jaeki.hong</a>
 </div>
 
 ## Education
