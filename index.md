@@ -91,11 +91,11 @@ To be updated...
 
 ## Personal
 
-<i class="fas fa-thumbs-up"></i> Likes <i class="fa fa-bicycle" aria-hidden="true"></i> <i class="fa fa-gamepad" aria-hidden="true"></i> <i class="fas fa-mountain"></i> <i class="fas fa-wine-glass"></i>
+<i class="fa fa-quote-left" aria-hidden="true"></i>Slow and steady wins the race. <i class="fa fa-quote-right" aria-hidden="true"></i>
+  
+<i class="fas fa-thumbs-up"></i> Likes <i class="fa fa-bicycle" aria-hidden="true"></i> <i class="fa fa-gamepad" aria-hidden="true"></i> <i class="fas fa-mountain", aria-hidden="true"></i> <i class="fas fa-wine-glass"></i>
   
 Family: Married, two children<br/>
 ![Children](children.png)
-
-  <i class="fa fa-quote-left" aria-hidden="true"></i>Slow and steady wins the race. <i class="fa fa-quote-right" aria-hidden="true"></i>
   
 <br/>Last updated: November 2021<br/><br/>
