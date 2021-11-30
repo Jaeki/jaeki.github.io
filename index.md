@@ -91,6 +91,8 @@ To be updated...
 
 ## Personal
 
-Family: Married, two children<br/>
+Likes <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-person-biking"></i> <i class="fa fa-gamepad" aria-hidden="true"></i>
+  
+Family <i class="fa-regular fa-family"></i> Married, two children<br/>
 ![Children](children.png)
 <br/>Last updated: November 2021<br/><br/>
