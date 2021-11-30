@@ -21,7 +21,7 @@ Samsung-ro 130, Suwon, South Korea.<br/>
 
 `2020-2022`
 **M.S., Computer Science & Engineering**, *Seoul National University*, Seoul, South Korea.<br/>
-- Thunder <i class="fa fa-bolt" aria-hidden="true"></i> Research Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a> (Advisor: Professor **Jaejin Lee**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fa fa-user" aria-hidden="true"></i></a> )
+- Thunder <i class="fa fa-bolt" aria-hidden="true"></i>Research Group &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://aces.snu.ac.kr"><i class="fas fa-home"></i></a> (Advisor: Professor **Jaejin Lee**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/view/jaejinlee"><i class="fa fa-user" aria-hidden="true"></i></a>)
 
 `2005-2006`
 **Exchange Student**, *Minnesota State University, Moorhead*, MN, United States.<br/>
