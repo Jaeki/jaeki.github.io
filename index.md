@@ -93,7 +93,7 @@ To be updated...
 
 <i class="fa fa-quote-left" aria-hidden="true"></i>Slow and steady wins the race. <i class="fa fa-quote-right" aria-hidden="true"></i>
   
-<i class="fas fa-thumbs-up"></i> brompton, hiking, video Game
+<i class="fas fa-thumbs-up"></i> brompton, hiking, video games
   
 <i class="fa-solid fa-family"></i> Married, two children<br/>
 ![Children](children.png)
