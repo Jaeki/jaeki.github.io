@@ -95,4 +95,7 @@ To be updated...
   
 Family: Married, two children<br/>
 ![Children](children.png)
+
+  <i class="fa fa-quote-left" aria-hidden="true"></i>Slow and steady wins the race. <i class="fa fa-quote-right" aria-hidden="true"></i>
+  
 <br/>Last updated: November 2021<br/><br/>
