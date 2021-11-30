@@ -91,7 +91,7 @@ To be updated...
 
 ## Personal
 
-Likes <i class="fas fa-thumbs-up"></i> <i class="fa fa-bicycle" aria-hidden="true"></i> <i class="fa fa-gamepad" aria-hidden="true"></i> <i class="fa fa-hiking"></i>
+<i class="fas fa-thumbs-up"></i> Likes <i class="fa fa-bicycle" aria-hidden="true"></i> <i class="fa fa-gamepad" aria-hidden="true"></i> <i class='fas fa-hiking'></i>
   
 Family: Married, two children<br/>
 ![Children](children.png)
