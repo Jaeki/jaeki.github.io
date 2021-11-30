@@ -95,7 +95,8 @@ To be updated...
   
 <i class="fas fa-thumbs-up"></i> brompton, hiking, video games
   
-<i class="fas fa-family"></i> Married, two children<br/>
+<i class="fas fa-child"></i> Married, two children<br/>
+
 ![Children](children.png)
   
 <br/>Last updated: November 2021<br/><br/>
