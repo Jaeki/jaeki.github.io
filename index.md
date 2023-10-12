@@ -3,9 +3,9 @@ layout: cv
 title: Jaeki Hong's CV
 ---
 # Jaeki Hong
-Engineer/Researcher, Samsung Electronics
+Principal Engineer/Researcher, Samsung Electronics
 
-AI&SW Center, Samsung Advanced Institute of Technology <a href="https://www.sait.samsung.co.kr/"><i class="fas fa-home"></i></a> <br/>
+Frontier Research T/F, SAIT(Samsung Advanced Institute of Technology) <a href="https://www.sait.samsung.co.kr/"><i class="fas fa-home"></i></a> <br/>
 Samsung-ro 130, Suwon, South Korea.<br/>
 
 <i class="fas fa-envelope"> E-mail: jaeki.hong@{ samsung.com | snu.ac.kr | gmail.com }</i> <br/>
@@ -92,10 +92,10 @@ To be updated...
 
 <i class="fa fa-quote-left" aria-hidden="true"></i> Slow and steady wins the race. <i class="fa fa-quote-right" aria-hidden="true"></i>
   
-<i class="fas fa-thumbs-up"></i> brompton, hiking, video games
+<i class="fas fa-thumbs-up"></i> brompton, hiking, video games, whisky
   
 <i class="fas fa-child"></i> Married, two children<br/>
 
 ![Children](children.png)
   
-<br/>Last updated: November 2021<br/><br/>
+<br/>Last updated: October 2023<br/><br/>
